@@ -16,6 +16,8 @@ public class PropertiesFiles {
 	public static void main(String[] args) {
 		readPropertiesFiles();
 		writePropertiesFiles();
+		readPropertiesFiles();
+		
 
 	}
 
